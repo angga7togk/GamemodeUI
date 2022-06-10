@@ -7,18 +7,18 @@ author: Angga7Togk
 description: "Open GamemodeUI"
 
 permissions:
-  gmdui.use:
-    description: "gmdUI Permission"
+  gamemodeui.use:
+    description: "GamemodeUI Permission"
     default: op
-  gmdui.use.creative:
-    description: "Creative Permission"
+  gamemodeui.use.creative:
+    description: "GamemodeUI Creative Permission"
     default: op
-  gmdui.use.survival:
-    description: "Survival Permission"
+  gamemodeui.use.survival:
+    description: "GamemodeUI Survival Permission"
     default: op
-  gmdui.use.adventure:
-    description: "Adventure Permission"
+  gamemodeui.use.adventure:
+    description: "GamemodeUI Adventure Permission"
     default: op
-  gmdui.use.spectator:
-    description: "Spectator Permission"
+  gamemodeui.use.spectator:
+    description: "GamemodeUI Spectator Permission"
     default: op
