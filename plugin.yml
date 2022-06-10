@@ -1,0 +1,24 @@
+---
+name: GamemodeUI
+main: Angga7Togk\GamemodeUI\Main
+version: 1.0
+api: 4.0.0
+author: Angga7Togk
+description: "Open GamemodeUI"
+
+permissions:
+  gmdui.use:
+    description: "gmdUI Permission"
+    default: op
+  gmdui.use.creative:
+    description: "Creative Permission"
+    default: op
+  gmdui.use.survival:
+    description: "Survival Permission"
+    default: op
+  gmdui.use.adventure:
+    description: "Adventure Permission"
+    default: op
+  gmdui.use.spectator:
+    description: "Spectator Permission"
+    default: op
