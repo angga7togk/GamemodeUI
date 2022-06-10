@@ -6,6 +6,11 @@ api: 4.0.0
 author: Angga7Togk
 description: "Open GamemodeUI"
 
+commands:
+  gmdui:
+    description: "Open GamemodeUI"
+    permission: gamemodeui.use
+    
 permissions:
   gamemodeui.use:
     description: "GamemodeUI Permission"
