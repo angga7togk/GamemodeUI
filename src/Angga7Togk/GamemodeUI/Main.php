@@ -11,7 +11,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\utils\Config;
 
-use Angga7Togk\GamemodeUI\Form\SimpleForm;
+use Angga7Togk\GamemodeUI\libs\form_by_jojoe77777\SimpleForm;
 
 class Main extends PluginBase {
     
