@@ -13,7 +13,7 @@ permissions:
     description: GamemodeUI Permission
     default: op
   gamemodeui.use.creative:
-    description: GamemodeUI Creative Permissionl
+    description: GamemodeUI Creative Permission
     default: op
   gamemodeui.use.survival:
     description: GamemodeUI Survival Permission
